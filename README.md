@@ -1,12 +1,4 @@
-# Digital-Systems
+# PROJETO INTEGRADOR
 
-Repositorio com conteúdos da disciplina Sistemas Digitais da Universidade Tecnológica Federal do Paraná - UTFPR.
+Repositorio com conteúdos e desenvolvimento do projeto da disciplina Projeto Integrador da Universidade Tecnológica Federal do Paraná - UTFPR relativo ao curso de  Tecnologia em Sistemas de Telecomunicações.
 
-## Trabalhos
-
-Display 7 segments:
-- Software: Quartus II
-- Language: VHDL code
-- Hardware: DE10-lite
-
-## Em construção
